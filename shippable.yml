@@ -6,5 +6,5 @@ python:
 build:
 
     ci:
-        -"python test.py"
+        - python test.py
 
