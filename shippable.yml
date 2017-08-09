@@ -1,10 +1,10 @@
 language: python
 
 python:
-	-2.7
+    -2.7
 
 build:
 
-	ci:
-		-"python test.py"
+    ci:
+        -"python test.py"
 
